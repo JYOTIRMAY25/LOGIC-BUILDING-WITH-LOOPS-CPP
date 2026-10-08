@@ -1,6 +1,6 @@
 //print the multiplication table of a given number from n × 1 to n x 10
 
-#include<iostream>
+#include<iostream> 
 using namespace std;
 
 int main(){
